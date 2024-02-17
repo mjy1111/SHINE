@@ -1,2 +1,3 @@
 # SHINE
-The repository for our paper:  SHINE: Syntax-augmented Hierarchical Interactive Encoder for Zero-shot Cross-lingual Information Extraction
+The repository for our paper:  SHINE: Syntax-augmented Hierarchical Interactive Encoder for Zero-shot Cross-lingual Information Extraction.
+We will publish code soon!
